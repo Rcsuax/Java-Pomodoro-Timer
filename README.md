@@ -1,3 +1,3 @@
 # Java-Pomodoro-Timer
 
-Simple Pomodoro timer application wrriten in Java using JavaFX
+Simple Pomodoro timer application written in Java using JavaFX
