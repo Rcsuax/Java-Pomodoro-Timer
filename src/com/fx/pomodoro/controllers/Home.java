@@ -113,7 +113,6 @@ public class Home {
 
     public void handleRestart(ActionEvent actionEvent) {
         prepareAttempt(AttemptKind.FOCUS);
-        playTimer();
     }
 
     public void handlePlay(ActionEvent actionEvent) {
